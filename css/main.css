@@ -1,21 +1,23 @@
 body {
     margin: 0;
+    padding: 0 15%;
     background: purple;
     color: white;
     text-align: center;
+
+font-size: 175%;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&family=Raleway:wght@100&family=The+Nautigal&display=swap');
 
 
 h1 {
-    font-family: 'The Nautigal', cursive;
+    font-family: 'Bree Serif', serif;
 }
 
 h2 {
-    font-family: 'Neonderthaw', cursive;
+    font-family: 'Lobster', cursive;
 }
 
 p {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Jost', sans-serif;
 }
