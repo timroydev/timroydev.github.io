@@ -1,6 +1,21 @@
 body {
     margin: 0;
-    background: purple;
+    background: rgb(248, 209, 248);
     color: white;
     text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&family=Raleway:wght@100&family=The+Nautigal&display=swap');
+
+
+h1 {
+    font-family: 'The Nautigal', cursive;
+}
+
+h2 {
+    font-family: 'Neonderthaw', cursive;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
 }
